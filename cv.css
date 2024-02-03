@@ -32,6 +32,10 @@ header {
   text-align: right;
 }
 
+section {
+  margin-bottom: 1rem;
+}
+
 section > h1 {
   border-bottom: 1px solid #ccc;
   padding-left: 0.5rem;
